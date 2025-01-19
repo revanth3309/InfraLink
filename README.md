@@ -21,6 +21,11 @@ InfraLink is an innovative platform developed to address the challenges of inter
 - **Backend**: Django, Python
 - **APIs and Tools**: OpenCage API, task scheduling with PERT charts, location tracking.
 
+## Demo
+Check out the demo of InfraLink in action here:  
+[![InfraLink Demo](https://img.youtube.com/vi/H2G3MTutKuE/0.jpg)](https://youtu.be/H2G3MTutKuE)  
+Click the thumbnail above to watch the full demo on YouTube.
+
 ## Benefits
 - **Enhanced Urban Governance**: Improves inter-departmental collaboration and resource management.
 - **Cost Savings**: Replaces traditional methods, reducing delays and operational inefficiencies.
@@ -34,5 +39,3 @@ InfraLink is an innovative platform developed to address the challenges of inter
 
 ## Contributions
 We welcome contributions to enhance InfraLink. Please create a pull request or open an issue for feedback.
-
-
