@@ -141,9 +141,9 @@ EMAIL_HOST_PASSWORD = 'lvdx uhsr qsba chca'  # Your email password
 DEFAULT_FROM_EMAIL = 'infralink04@gmail.com'  # Default from email
 
 # settings.py
-TWILIO_ACCOUNT_SID = 'AC82c51f8436df676becaadad86beefcad'
-TWILIO_AUTH_TOKEN = '1fbfe4db9652409e79a64ced5cd7fa3a'
-TWILIO_PHONE_NUMBER = '+12565791529'
+TWILIO_ACCOUNT_SID = ''
+TWILIO_AUTH_TOKEN = ''
+TWILIO_PHONE_NUMBER = ''
 
 LOGGING = {
     'version': 1,
