@@ -33,9 +33,8 @@ Click the thumbnail above to watch the full demo on YouTube.
 
 ## How to Run
 1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the server: `python manage.py runserver`
-4. Access the platform at `http://localhost:8000`
+2. Run the server: `python manage.py runserver`
+3. Access the platform at `http://localhost:8000`
 
 ## Contributions
 We welcome contributions to enhance InfraLink. Please create a pull request or open an issue for feedback.
